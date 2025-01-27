@@ -14,3 +14,6 @@ How to Run
 2. Compile the program:
    ```bash
    javac CalculatorApp.java
+Author - AJAYI MOSES B
+Mat No - U23CS1055
+Dept - Computer Science
